@@ -1,6 +1,5 @@
 # MorphX Device Simulator
 
-My submission for the Neuranics software engineer assignment.
 
 There are two separate Python programs here:
 
